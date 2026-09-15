@@ -1,3 +1,1 @@
-# redteaming
-
 hello world
